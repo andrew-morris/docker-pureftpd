@@ -1,6 +1,6 @@
 
 FROM debian:wheezy
-MAINTANER "Andrew Morris"
+MAINTAINER "Andrew Morris"
 
 
 ENV DEBIAN_FRONTEND noninteractive
